@@ -1,0 +1,33 @@
+.late-return-policy-container {
+    padding: 20px;
+    margin: 50px 40%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    width: 500px;
+    box-shadow: 0 0 10px #004242;
+    height: 1100px;
+}
+
+.late-return-policy-heading {
+    font-size: 25px;
+    margin-bottom: 15px;
+    color: #333;
+    text-align: center;
+}
+
+.late-return-policy-list {
+    list-style-type: none;
+    padding: 50px;
+
+}
+
+.late-return-policy-item {
+    margin-top: 50px;
+    font-size: 20px;
+    color: black;
+}
+
+.late-return-policy-item strong {
+    color: #000;
+}
